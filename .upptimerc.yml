@@ -9,7 +9,7 @@ sites:
     expectedStatusCodes:
      - 200
      - 500
-  - name: 🇲🇨 SCRIPT
+  - name: 🇲🇨 Educate
     url: http://serv-educate.aanstores.xyz:49959
     maxResponseTime: 5000
     expectedStatusCodes:
