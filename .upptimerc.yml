@@ -5,6 +5,10 @@ repo: status-server # The name of this repository
 sites:
   - name: SCRIPT
     url: http://sc.zxbxns.me:81
+    maxResponseTime: 5000
+    expectedStatusCodes:
+     - 200
+     - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
