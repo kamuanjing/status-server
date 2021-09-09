@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 467,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "🇲🇨 ID",
+    "url": "http://id-1.mailstores.me",
+    "icon": "https://favicons.githubusercontent.com/id-1.mailstores.me",
+    "slug": "id",
+    "status": "down",
+    "uptime": "83.72%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "83.72%",
+    "uptimeMonth": "83.72%",
+    "uptimeYear": "83.72%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-09-09": 0
+    }
   }
 ]
