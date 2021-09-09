@@ -16,11 +16,11 @@ status-website:
   cname: status.zxbxns.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: MailStores Status-Server
+  name: status-server
   introTitle: "Welcome to our **MailStores** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
-    - title: Status-Server
+    - title: status-server
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
