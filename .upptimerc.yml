@@ -10,7 +10,8 @@ sites:
      - 200
      - 500
   - name: 🇲🇨 Educate
-    url: http://serv-educate.aanstores.xyz:49959
+    url: http://serv-educate.aanstores.xyz
+    port: 49959
     maxResponseTime: 5000
     expectedStatusCodes:
      - 200
