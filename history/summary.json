@@ -1,6 +1,6 @@
 [
   {
-    "name": "SCRIPT",
+    "name": "🇲🇨 SCRIPT",
     "url": "http://sc.zxbxns.me:81",
     "icon": "https://favicons.githubusercontent.com/sc.zxbxns.me",
     "slug": "script",
@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "🇲🇨 ID",
-    "url": "http://id-1.mailstores.me",
-    "icon": "https://favicons.githubusercontent.com/id-1.mailstores.me",
-    "slug": "id",
-    "status": "down",
-    "uptime": "75.45%",
-    "uptimeDay": "75.45%",
-    "uptimeWeek": "75.45%",
-    "uptimeMonth": "75.45%",
-    "uptimeYear": "75.45%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-09-09": 0
-    }
   }
 ]
