@@ -9,6 +9,12 @@ sites:
     expectedStatusCodes:
      - 200
      - 500
+  - name: 🇲🇨 ID
+    url: http://id-1.mailstores.me
+    maxResponseTime: 5000
+    expectedStatusCodes:
+     - 200
+     - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
