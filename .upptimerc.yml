@@ -20,8 +20,6 @@ status-website:
   introTitle: "Welcome to our **MailStores** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
-    - title: status-server
-      href: https://status.zxbxns.me
     - title: telegram
       href: https://t.me/zxbxns
   theme: light
