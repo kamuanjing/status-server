@@ -4,17 +4,19 @@
     "url": "http://sc.zxbxns.me:81",
     "icon": "https://favicons.githubusercontent.com/sc.zxbxns.me",
     "slug": "script",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 464,
+    "timeDay": 461,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   }
 ]
