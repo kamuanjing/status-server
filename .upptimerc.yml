@@ -20,9 +20,13 @@ status-website:
   introTitle: "Welcome to our **MailStores** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
-    - title: status-server
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: OpenTunnel
+      href: https://opentunnel.net
+    - title: Community
+      href: https://forum.opentunnel.net
+    - title: Telegram
+      href: https://t.me/opentunnel_status
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
