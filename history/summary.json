@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/sc.zxbxns.me",
     "slug": "script",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
-    "time": 462,
-    "timeDay": 442,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
-    "dailyMinutesDown": {
-      "2021-09-10": 24
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 463,
+    "timeDay": 485,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {}
   }
 ]
