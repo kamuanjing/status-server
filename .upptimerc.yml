@@ -10,7 +10,7 @@ sites:
      - 200
      - 500
   - name: AZURE
-    url: http://sg-1.mailstores.me
+    url: http://sg-1.mailstores.me:81
     maxResponseTime: 5000
     expectedStatusCodes:
      - 200
