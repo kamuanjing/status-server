@@ -1,7 +1,7 @@
-url: http://sg-1.mailstores.me
-status: down
-code: 404
-responseTime: 452
-lastUpdated: 2021-09-29T13:08:41.428Z
+url: http://sg-1.mailstores.me:81
+status: up
+code: 200
+responseTime: 460
+lastUpdated: 2021-09-29T13:10:01.909Z
 startTime: Wed Sep 29 2021 13:08:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
