@@ -4,35 +4,39 @@
     "url": "http://sc.zxbxns.me:81",
     "icon": "https://favicons.githubusercontent.com/sc.zxbxns.me",
     "slug": "script",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 564,
+    "timeDay": 690,
     "timeWeek": 500,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "AZURE",
     "url": "http://sg-1.mailstores.me:81",
     "icon": "https://favicons.githubusercontent.com/sg-1.mailstores.me",
     "slug": "azure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 427,
+    "timeDay": 369,
     "timeWeek": 427,
     "timeMonth": 427,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   }
 ]
