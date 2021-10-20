@@ -1,7 +1,7 @@
 url: http://sg-1.mailstores.me:81
-status: degraded
+status: up
 code: 200
-responseTime: 10072
-lastUpdated: 2021-10-20T10:56:15.000Z
+responseTime: 384
+lastUpdated: 2021-10-20T11:16:49.168Z
 startTime: Wed Sep 29 2021 13:08:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
