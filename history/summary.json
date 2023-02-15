@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sc.zxbxns.me.ico",
     "slug": "script",
     "status": "down",
-    "uptime": "57.78%",
+    "uptime": "57.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.59%",
-    "time": 424,
+    "uptimeYear": "39.32%",
+    "time": 425,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-02-14": 30,
+      "2023-02-15": 29,
+      "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -251,7 +252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg-1.mailstores.me.ico",
     "slug": "azure",
     "status": "down",
-    "uptime": "18.73%",
+    "uptime": "18.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -262,7 +263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-14": 30,
+      "2023-02-15": 29,
+      "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -625,8 +627,7 @@
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
-      "2022-02-16": 1440,
-      "2022-02-15": 1440
+      "2022-02-16": 1440
     }
   }
 ]
